@@ -1,0 +1,5 @@
+#include<stdio.h>
+main()
+{
+printf("Kraken is a dangerous marine beast looks like a gaint squaid");
+}
